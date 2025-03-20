@@ -1,4 +1,8 @@
-## 使用lora 训练大语言模型（Qwen7b）扮演角色
+# 使用lora 训练大语言模型（Qwen7b）扮演角色
+
+![image](https://github.com/user-attachments/assets/bd783501-5633-440d-b7f9-88029c60afa7)
+![image](https://github.com/user-attachments/assets/dc301892-6820-4e58-9f3c-d88ad5f4568e)
+
 
 ### 本项目使用的是  三国演义  剧本当中的数据：datasets/raw_data/sanguo_dataprocess/train_data<br>
 该数据是本人自行爬虫构建的。
